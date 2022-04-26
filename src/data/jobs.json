@@ -1,0 +1,36 @@
+[
+  {"title":"Graduated from New York University",
+  "is_school": "true",
+  "start":"Sept 2013",
+  "end":"Jan 2017",
+  "skills": [],
+  "responsibilities": []
+},
+{"title":"Front End Web Developer at Shoplet.com",
+  "is_school": "false",
+"start":"Jun 2017",
+"end":"Apr 2019",
+"skills": ["Git", "PHP", "jQuery", "HTML", "CSS", "Photoshop", "Illustrator", "Klaviyo", "Listrak", "ZEND"],
+"responsibilities": ["Built new features in an in-house custom MVC framework, including related products search, product gallery zoom functionality, desktop push notifications, order status pages, and bulk discount pricing",
+"Designed and created views for admin tools in a custom CRM portal to streamline customer service experience", "Created an e-mail template tool to auto-generate HTML templates for use in e-mail SaaS services such as Listrak",
+"Oversaw a website redesign project and debugged multiple merge conflicts in Git between different environment branches"]
+},
+{"title":"Front End Web Developer at BlueSwitch",
+  "is_school": "false",
+"start":"Apr 2019",
+"end":"Jan 2021",
+"skills": ["Git", ".NET", "Liquid", "Shopify Plus", "HTML", "jQuery", "JavaScript ES6", "React", "Klaviyo", "ReCharge Payments", "Shogun", "Google Analytics", "WordPress"],
+"responsibilities": ["Built new features in an in-house custom MVC framework, including related products search, product gallery zoom functionality, desktop push notifications, order status pages, and bulk discount pricing",
+"Designed and created views for admin tools in a custom CRM portal to streamline customer service experience", "Created an e-mail template tool to auto-generate HTML templates for use in e-mail SaaS services such as Listrak",
+"Oversaw a website redesign project and debugged multiple merge conflicts in Git between different environment branches"]
+},
+{"title":"Senior Web Developer at Avex Designs",
+  "is_school": "false",
+"start":"Jan 2021",
+"end":"Present",
+"skills": ["Git", "PHP", "jQuery", "HTML", "CSS", "Figma", "Klaviyo", "npm", "yarn", "ThemeKit", "Boost Apps (Product Filter & Search)", "ReCharge", "Yotpo", "Okendo", "Shopify Plus", "React"],
+"responsibilities": ["Built new features in an in-house custom MVC framework, including related products search, product gallery zoom functionality, desktop push notifications, order status pages, and bulk discount pricing",
+"Designed and created views for admin tools in a custom CRM portal to streamline customer service experience", "Created an e-mail template tool to auto-generate HTML templates for use in e-mail SaaS services such as Listrak",
+"Oversaw a website redesign project and debugged multiple merge conflicts in Git between different environment branches"]
+}
+]
