@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfoliov3/static/css/main.77d7c617.css",
+    "main.js": "/portfoliov3/static/js/main.fa7ff24a.js",
+    "static/media/de-soi.png": "/portfoliov3/static/media/de-soi.b82b76f5d3de7bc8412f.png",
+    "static/media/appointed.jpg": "/portfoliov3/static/media/appointed.da49f5c83d163109dbb0.jpg",
+    "static/media/metal-umbrella.jpg": "/portfoliov3/static/media/metal-umbrella.901cc2fbe501696d2015.jpg",
+    "static/media/jimmy-jazz.jpg": "/portfoliov3/static/media/jimmy-jazz.42c8a3e5ced5a5e7838b.jpg",
+    "static/media/email-svgrepo-com.svg": "/portfoliov3/static/media/email-svgrepo-com.f551df865afbddbb032b.svg",
+    "index.html": "/portfoliov3/index.html",
+    "static/media/github-svgrepo-com.svg": "/portfoliov3/static/media/github-svgrepo-com.9989066f908cf58d8f92.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/portfoliov3/static/media/linkedin-svgrepo-com.729da13d5a7ce45e5096.svg",
+    "main.77d7c617.css.map": "/portfoliov3/static/css/main.77d7c617.css.map",
+    "main.fa7ff24a.js.map": "/portfoliov3/static/js/main.fa7ff24a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d7c617.css",
+    "static/js/main.fa7ff24a.js"
+  ]
+}
